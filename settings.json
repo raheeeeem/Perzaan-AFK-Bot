@@ -1,14 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "server is onlone",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "coconutsmp6767.aternos.me",
-    "port": 
-    15490,
+    "port": 15490,
     "version": "1.21.1"
   },
   "position": {
